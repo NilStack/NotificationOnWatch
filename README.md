@@ -1,0 +1,1 @@
+### WatchKit Notification example for my blog [Apple Watch App Development Basic 5 : Notifications II](http://develop.watch/apple-watch-app-development-basic-5-notifications-ii/).
